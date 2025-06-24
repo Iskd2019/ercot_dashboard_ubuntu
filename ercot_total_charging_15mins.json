@@ -1,0 +1,1654 @@
+[
+  {
+    "timestamp":"2025-06-23 00:00:00-0500",
+    "totalCharging":-231.334
+  },
+  {
+    "timestamp":"2025-06-23 00:05:00-0500",
+    "totalCharging":-231.334
+  },
+  {
+    "timestamp":"2025-06-23 00:10:00-0500",
+    "totalCharging":-231.334
+  },
+  {
+    "timestamp":"2025-06-23 00:15:00-0500",
+    "totalCharging":-155.353
+  },
+  {
+    "timestamp":"2025-06-23 00:20:00-0500",
+    "totalCharging":-155.353
+  },
+  {
+    "timestamp":"2025-06-23 00:25:00-0500",
+    "totalCharging":-155.353
+  },
+  {
+    "timestamp":"2025-06-23 00:30:00-0500",
+    "totalCharging":-64.526
+  },
+  {
+    "timestamp":"2025-06-23 00:35:00-0500",
+    "totalCharging":-64.526
+  },
+  {
+    "timestamp":"2025-06-23 00:40:00-0500",
+    "totalCharging":-64.526
+  },
+  {
+    "timestamp":"2025-06-23 00:45:00-0500",
+    "totalCharging":-140.311
+  },
+  {
+    "timestamp":"2025-06-23 00:50:00-0500",
+    "totalCharging":-140.311
+  },
+  {
+    "timestamp":"2025-06-23 00:55:00-0500",
+    "totalCharging":-140.311
+  },
+  {
+    "timestamp":"2025-06-23 01:00:00-0500",
+    "totalCharging":-175.379
+  },
+  {
+    "timestamp":"2025-06-23 01:05:00-0500",
+    "totalCharging":-175.379
+  },
+  {
+    "timestamp":"2025-06-23 01:10:00-0500",
+    "totalCharging":-175.379
+  },
+  {
+    "timestamp":"2025-06-23 01:15:00-0500",
+    "totalCharging":-154.765
+  },
+  {
+    "timestamp":"2025-06-23 01:20:00-0500",
+    "totalCharging":-154.765
+  },
+  {
+    "timestamp":"2025-06-23 01:25:00-0500",
+    "totalCharging":-154.765
+  },
+  {
+    "timestamp":"2025-06-23 01:30:00-0500",
+    "totalCharging":-74.392
+  },
+  {
+    "timestamp":"2025-06-23 01:35:00-0500",
+    "totalCharging":-74.392
+  },
+  {
+    "timestamp":"2025-06-23 01:40:00-0500",
+    "totalCharging":-74.392
+  },
+  {
+    "timestamp":"2025-06-23 01:45:00-0500",
+    "totalCharging":-132.658
+  },
+  {
+    "timestamp":"2025-06-23 01:50:00-0500",
+    "totalCharging":-132.658
+  },
+  {
+    "timestamp":"2025-06-23 01:55:00-0500",
+    "totalCharging":-132.658
+  },
+  {
+    "timestamp":"2025-06-23 02:00:00-0500",
+    "totalCharging":-516.769
+  },
+  {
+    "timestamp":"2025-06-23 02:05:00-0500",
+    "totalCharging":-516.769
+  },
+  {
+    "timestamp":"2025-06-23 02:10:00-0500",
+    "totalCharging":-516.769
+  },
+  {
+    "timestamp":"2025-06-23 02:15:00-0500",
+    "totalCharging":-1205.858
+  },
+  {
+    "timestamp":"2025-06-23 02:20:00-0500",
+    "totalCharging":-1205.858
+  },
+  {
+    "timestamp":"2025-06-23 02:25:00-0500",
+    "totalCharging":-1205.858
+  },
+  {
+    "timestamp":"2025-06-23 02:30:00-0500",
+    "totalCharging":-665.416
+  },
+  {
+    "timestamp":"2025-06-23 02:35:00-0500",
+    "totalCharging":-665.416
+  },
+  {
+    "timestamp":"2025-06-23 02:40:00-0500",
+    "totalCharging":-665.416
+  },
+  {
+    "timestamp":"2025-06-23 02:45:00-0500",
+    "totalCharging":-549.417
+  },
+  {
+    "timestamp":"2025-06-23 02:50:00-0500",
+    "totalCharging":-549.417
+  },
+  {
+    "timestamp":"2025-06-23 02:55:00-0500",
+    "totalCharging":-549.417
+  },
+  {
+    "timestamp":"2025-06-23 03:00:00-0500",
+    "totalCharging":-672.532
+  },
+  {
+    "timestamp":"2025-06-23 03:05:00-0500",
+    "totalCharging":-672.532
+  },
+  {
+    "timestamp":"2025-06-23 03:10:00-0500",
+    "totalCharging":-672.532
+  },
+  {
+    "timestamp":"2025-06-23 03:15:00-0500",
+    "totalCharging":-424.404
+  },
+  {
+    "timestamp":"2025-06-23 03:20:00-0500",
+    "totalCharging":-424.404
+  },
+  {
+    "timestamp":"2025-06-23 03:25:00-0500",
+    "totalCharging":-424.404
+  },
+  {
+    "timestamp":"2025-06-23 03:30:00-0500",
+    "totalCharging":-389.595
+  },
+  {
+    "timestamp":"2025-06-23 03:35:00-0500",
+    "totalCharging":-389.595
+  },
+  {
+    "timestamp":"2025-06-23 03:40:00-0500",
+    "totalCharging":-389.595
+  },
+  {
+    "timestamp":"2025-06-23 03:45:00-0500",
+    "totalCharging":-656.985
+  },
+  {
+    "timestamp":"2025-06-23 03:50:00-0500",
+    "totalCharging":-656.985
+  },
+  {
+    "timestamp":"2025-06-23 03:55:00-0500",
+    "totalCharging":-656.985
+  },
+  {
+    "timestamp":"2025-06-23 04:00:00-0500",
+    "totalCharging":-568.0
+  },
+  {
+    "timestamp":"2025-06-23 04:05:00-0500",
+    "totalCharging":-568.0
+  },
+  {
+    "timestamp":"2025-06-23 04:10:00-0500",
+    "totalCharging":-568.0
+  },
+  {
+    "timestamp":"2025-06-23 04:15:00-0500",
+    "totalCharging":-245.638
+  },
+  {
+    "timestamp":"2025-06-23 04:20:00-0500",
+    "totalCharging":-245.638
+  },
+  {
+    "timestamp":"2025-06-23 04:25:00-0500",
+    "totalCharging":-245.638
+  },
+  {
+    "timestamp":"2025-06-23 04:30:00-0500",
+    "totalCharging":-173.82
+  },
+  {
+    "timestamp":"2025-06-23 04:35:00-0500",
+    "totalCharging":-173.82
+  },
+  {
+    "timestamp":"2025-06-23 04:40:00-0500",
+    "totalCharging":-173.82
+  },
+  {
+    "timestamp":"2025-06-23 04:45:00-0500",
+    "totalCharging":-262.708
+  },
+  {
+    "timestamp":"2025-06-23 04:50:00-0500",
+    "totalCharging":-262.708
+  },
+  {
+    "timestamp":"2025-06-23 04:55:00-0500",
+    "totalCharging":-262.708
+  },
+  {
+    "timestamp":"2025-06-23 05:00:00-0500",
+    "totalCharging":-118.237
+  },
+  {
+    "timestamp":"2025-06-23 05:05:00-0500",
+    "totalCharging":-118.237
+  },
+  {
+    "timestamp":"2025-06-23 05:10:00-0500",
+    "totalCharging":-118.237
+  },
+  {
+    "timestamp":"2025-06-23 05:15:00-0500",
+    "totalCharging":-92.989
+  },
+  {
+    "timestamp":"2025-06-23 05:20:00-0500",
+    "totalCharging":-92.989
+  },
+  {
+    "timestamp":"2025-06-23 05:25:00-0500",
+    "totalCharging":-92.989
+  },
+  {
+    "timestamp":"2025-06-23 05:30:00-0500",
+    "totalCharging":-70.46
+  },
+  {
+    "timestamp":"2025-06-23 05:35:00-0500",
+    "totalCharging":-70.46
+  },
+  {
+    "timestamp":"2025-06-23 05:40:00-0500",
+    "totalCharging":-70.46
+  },
+  {
+    "timestamp":"2025-06-23 05:45:00-0500",
+    "totalCharging":-79.967
+  },
+  {
+    "timestamp":"2025-06-23 05:50:00-0500",
+    "totalCharging":-79.967
+  },
+  {
+    "timestamp":"2025-06-23 05:55:00-0500",
+    "totalCharging":-79.967
+  },
+  {
+    "timestamp":"2025-06-23 06:00:00-0500",
+    "totalCharging":-100.217
+  },
+  {
+    "timestamp":"2025-06-23 06:05:00-0500",
+    "totalCharging":-100.217
+  },
+  {
+    "timestamp":"2025-06-23 06:10:00-0500",
+    "totalCharging":-100.217
+  },
+  {
+    "timestamp":"2025-06-23 06:15:00-0500",
+    "totalCharging":-67.403
+  },
+  {
+    "timestamp":"2025-06-23 06:20:00-0500",
+    "totalCharging":-67.403
+  },
+  {
+    "timestamp":"2025-06-23 06:25:00-0500",
+    "totalCharging":-67.403
+  },
+  {
+    "timestamp":"2025-06-23 06:30:00-0500",
+    "totalCharging":-139.384
+  },
+  {
+    "timestamp":"2025-06-23 06:35:00-0500",
+    "totalCharging":-139.384
+  },
+  {
+    "timestamp":"2025-06-23 06:40:00-0500",
+    "totalCharging":-139.384
+  },
+  {
+    "timestamp":"2025-06-23 06:45:00-0500",
+    "totalCharging":-103.325
+  },
+  {
+    "timestamp":"2025-06-23 06:50:00-0500",
+    "totalCharging":-103.325
+  },
+  {
+    "timestamp":"2025-06-23 06:55:00-0500",
+    "totalCharging":-103.325
+  },
+  {
+    "timestamp":"2025-06-23 07:00:00-0500",
+    "totalCharging":-99.354
+  },
+  {
+    "timestamp":"2025-06-23 07:05:00-0500",
+    "totalCharging":-99.354
+  },
+  {
+    "timestamp":"2025-06-23 07:10:00-0500",
+    "totalCharging":-99.354
+  },
+  {
+    "timestamp":"2025-06-23 07:15:00-0500",
+    "totalCharging":-383.512
+  },
+  {
+    "timestamp":"2025-06-23 07:20:00-0500",
+    "totalCharging":-383.512
+  },
+  {
+    "timestamp":"2025-06-23 07:25:00-0500",
+    "totalCharging":-383.512
+  },
+  {
+    "timestamp":"2025-06-23 07:30:00-0500",
+    "totalCharging":-623.078
+  },
+  {
+    "timestamp":"2025-06-23 07:35:00-0500",
+    "totalCharging":-623.078
+  },
+  {
+    "timestamp":"2025-06-23 07:40:00-0500",
+    "totalCharging":-623.078
+  },
+  {
+    "timestamp":"2025-06-23 07:45:00-0500",
+    "totalCharging":-987.795
+  },
+  {
+    "timestamp":"2025-06-23 07:50:00-0500",
+    "totalCharging":-987.795
+  },
+  {
+    "timestamp":"2025-06-23 07:55:00-0500",
+    "totalCharging":-987.795
+  },
+  {
+    "timestamp":"2025-06-23 08:00:00-0500",
+    "totalCharging":-1741.738
+  },
+  {
+    "timestamp":"2025-06-23 08:05:00-0500",
+    "totalCharging":-1741.738
+  },
+  {
+    "timestamp":"2025-06-23 08:10:00-0500",
+    "totalCharging":-1741.738
+  },
+  {
+    "timestamp":"2025-06-23 08:15:00-0500",
+    "totalCharging":-2077.917
+  },
+  {
+    "timestamp":"2025-06-23 08:20:00-0500",
+    "totalCharging":-2077.917
+  },
+  {
+    "timestamp":"2025-06-23 08:25:00-0500",
+    "totalCharging":-2077.917
+  },
+  {
+    "timestamp":"2025-06-23 08:30:00-0500",
+    "totalCharging":-2076.154
+  },
+  {
+    "timestamp":"2025-06-23 08:35:00-0500",
+    "totalCharging":-2076.154
+  },
+  {
+    "timestamp":"2025-06-23 08:40:00-0500",
+    "totalCharging":-2076.154
+  },
+  {
+    "timestamp":"2025-06-23 08:45:00-0500",
+    "totalCharging":-1875.857
+  },
+  {
+    "timestamp":"2025-06-23 08:50:00-0500",
+    "totalCharging":-1875.857
+  },
+  {
+    "timestamp":"2025-06-23 08:55:00-0500",
+    "totalCharging":-1875.857
+  },
+  {
+    "timestamp":"2025-06-23 09:00:00-0500",
+    "totalCharging":-2311.819
+  },
+  {
+    "timestamp":"2025-06-23 09:05:00-0500",
+    "totalCharging":-2311.819
+  },
+  {
+    "timestamp":"2025-06-23 09:10:00-0500",
+    "totalCharging":-2311.819
+  },
+  {
+    "timestamp":"2025-06-23 09:15:00-0500",
+    "totalCharging":-1752.094
+  },
+  {
+    "timestamp":"2025-06-23 09:20:00-0500",
+    "totalCharging":-1752.094
+  },
+  {
+    "timestamp":"2025-06-23 09:25:00-0500",
+    "totalCharging":-1752.094
+  },
+  {
+    "timestamp":"2025-06-23 09:30:00-0500",
+    "totalCharging":-1702.162
+  },
+  {
+    "timestamp":"2025-06-23 09:35:00-0500",
+    "totalCharging":-1702.162
+  },
+  {
+    "timestamp":"2025-06-23 09:40:00-0500",
+    "totalCharging":-1702.162
+  },
+  {
+    "timestamp":"2025-06-23 09:45:00-0500",
+    "totalCharging":-1934.218
+  },
+  {
+    "timestamp":"2025-06-23 09:50:00-0500",
+    "totalCharging":-1934.218
+  },
+  {
+    "timestamp":"2025-06-23 09:55:00-0500",
+    "totalCharging":-1934.218
+  },
+  {
+    "timestamp":"2025-06-23 10:00:00-0500",
+    "totalCharging":-1810.775
+  },
+  {
+    "timestamp":"2025-06-23 10:05:00-0500",
+    "totalCharging":-1810.775
+  },
+  {
+    "timestamp":"2025-06-23 10:10:00-0500",
+    "totalCharging":-1810.775
+  },
+  {
+    "timestamp":"2025-06-23 10:15:00-0500",
+    "totalCharging":-1701.558
+  },
+  {
+    "timestamp":"2025-06-23 10:20:00-0500",
+    "totalCharging":-1701.558
+  },
+  {
+    "timestamp":"2025-06-23 10:25:00-0500",
+    "totalCharging":-1701.558
+  },
+  {
+    "timestamp":"2025-06-23 10:30:00-0500",
+    "totalCharging":-1488.825
+  },
+  {
+    "timestamp":"2025-06-23 10:35:00-0500",
+    "totalCharging":-1488.825
+  },
+  {
+    "timestamp":"2025-06-23 10:40:00-0500",
+    "totalCharging":-1488.825
+  },
+  {
+    "timestamp":"2025-06-23 10:45:00-0500",
+    "totalCharging":-1507.87
+  },
+  {
+    "timestamp":"2025-06-23 10:50:00-0500",
+    "totalCharging":-1507.87
+  },
+  {
+    "timestamp":"2025-06-23 10:55:00-0500",
+    "totalCharging":-1507.87
+  },
+  {
+    "timestamp":"2025-06-23 11:00:00-0500",
+    "totalCharging":-1268.624
+  },
+  {
+    "timestamp":"2025-06-23 11:05:00-0500",
+    "totalCharging":-1268.624
+  },
+  {
+    "timestamp":"2025-06-23 11:10:00-0500",
+    "totalCharging":-1268.624
+  },
+  {
+    "timestamp":"2025-06-23 11:15:00-0500",
+    "totalCharging":-1037.174
+  },
+  {
+    "timestamp":"2025-06-23 11:20:00-0500",
+    "totalCharging":-1037.174
+  },
+  {
+    "timestamp":"2025-06-23 11:25:00-0500",
+    "totalCharging":-1037.174
+  },
+  {
+    "timestamp":"2025-06-23 11:30:00-0500",
+    "totalCharging":-1123.896
+  },
+  {
+    "timestamp":"2025-06-23 11:35:00-0500",
+    "totalCharging":-1123.896
+  },
+  {
+    "timestamp":"2025-06-23 11:40:00-0500",
+    "totalCharging":-1123.896
+  },
+  {
+    "timestamp":"2025-06-23 11:45:00-0500",
+    "totalCharging":-1384.125
+  },
+  {
+    "timestamp":"2025-06-23 11:50:00-0500",
+    "totalCharging":-1384.125
+  },
+  {
+    "timestamp":"2025-06-23 11:55:00-0500",
+    "totalCharging":-1384.125
+  },
+  {
+    "timestamp":"2025-06-23 12:00:00-0500",
+    "totalCharging":-1116.481
+  },
+  {
+    "timestamp":"2025-06-23 12:05:00-0500",
+    "totalCharging":-1116.481
+  },
+  {
+    "timestamp":"2025-06-23 12:10:00-0500",
+    "totalCharging":-1116.481
+  },
+  {
+    "timestamp":"2025-06-23 12:15:00-0500",
+    "totalCharging":-571.575
+  },
+  {
+    "timestamp":"2025-06-23 12:20:00-0500",
+    "totalCharging":-571.575
+  },
+  {
+    "timestamp":"2025-06-23 12:25:00-0500",
+    "totalCharging":-571.575
+  },
+  {
+    "timestamp":"2025-06-23 12:30:00-0500",
+    "totalCharging":-474.745
+  },
+  {
+    "timestamp":"2025-06-23 12:35:00-0500",
+    "totalCharging":-474.745
+  },
+  {
+    "timestamp":"2025-06-23 12:40:00-0500",
+    "totalCharging":-474.745
+  },
+  {
+    "timestamp":"2025-06-23 12:45:00-0500",
+    "totalCharging":-725.959
+  },
+  {
+    "timestamp":"2025-06-23 12:50:00-0500",
+    "totalCharging":-725.959
+  },
+  {
+    "timestamp":"2025-06-23 12:55:00-0500",
+    "totalCharging":-725.959
+  },
+  {
+    "timestamp":"2025-06-23 13:00:00-0500",
+    "totalCharging":-385.191
+  },
+  {
+    "timestamp":"2025-06-23 13:05:00-0500",
+    "totalCharging":-385.191
+  },
+  {
+    "timestamp":"2025-06-23 13:10:00-0500",
+    "totalCharging":-385.191
+  },
+  {
+    "timestamp":"2025-06-23 13:15:00-0500",
+    "totalCharging":-310.832
+  },
+  {
+    "timestamp":"2025-06-23 13:20:00-0500",
+    "totalCharging":-310.832
+  },
+  {
+    "timestamp":"2025-06-23 13:25:00-0500",
+    "totalCharging":-310.832
+  },
+  {
+    "timestamp":"2025-06-23 13:30:00-0500",
+    "totalCharging":-881.348
+  },
+  {
+    "timestamp":"2025-06-23 13:35:00-0500",
+    "totalCharging":-881.348
+  },
+  {
+    "timestamp":"2025-06-23 13:40:00-0500",
+    "totalCharging":-881.348
+  },
+  {
+    "timestamp":"2025-06-23 13:45:00-0500",
+    "totalCharging":-816.523
+  },
+  {
+    "timestamp":"2025-06-23 13:50:00-0500",
+    "totalCharging":-816.523
+  },
+  {
+    "timestamp":"2025-06-23 13:55:00-0500",
+    "totalCharging":-816.523
+  },
+  {
+    "timestamp":"2025-06-23 14:00:00-0500",
+    "totalCharging":-630.135
+  },
+  {
+    "timestamp":"2025-06-23 14:05:00-0500",
+    "totalCharging":-630.135
+  },
+  {
+    "timestamp":"2025-06-23 14:10:00-0500",
+    "totalCharging":-630.135
+  },
+  {
+    "timestamp":"2025-06-23 14:15:00-0500",
+    "totalCharging":-640.799
+  },
+  {
+    "timestamp":"2025-06-23 14:20:00-0500",
+    "totalCharging":-640.799
+  },
+  {
+    "timestamp":"2025-06-23 14:25:00-0500",
+    "totalCharging":-640.799
+  },
+  {
+    "timestamp":"2025-06-23 14:30:00-0500",
+    "totalCharging":-1042.291
+  },
+  {
+    "timestamp":"2025-06-23 14:35:00-0500",
+    "totalCharging":-1042.291
+  },
+  {
+    "timestamp":"2025-06-23 14:40:00-0500",
+    "totalCharging":-1042.291
+  },
+  {
+    "timestamp":"2025-06-23 14:45:00-0500",
+    "totalCharging":-1215.001
+  },
+  {
+    "timestamp":"2025-06-23 14:50:00-0500",
+    "totalCharging":-1215.001
+  },
+  {
+    "timestamp":"2025-06-23 14:55:00-0500",
+    "totalCharging":-1215.001
+  },
+  {
+    "timestamp":"2025-06-23 15:00:00-0500",
+    "totalCharging":-1015.843
+  },
+  {
+    "timestamp":"2025-06-23 15:05:00-0500",
+    "totalCharging":-1015.843
+  },
+  {
+    "timestamp":"2025-06-23 15:10:00-0500",
+    "totalCharging":-1015.843
+  },
+  {
+    "timestamp":"2025-06-23 15:15:00-0500",
+    "totalCharging":-573.981
+  },
+  {
+    "timestamp":"2025-06-23 15:20:00-0500",
+    "totalCharging":-573.981
+  },
+  {
+    "timestamp":"2025-06-23 15:25:00-0500",
+    "totalCharging":-573.981
+  },
+  {
+    "timestamp":"2025-06-23 15:30:00-0500",
+    "totalCharging":-647.667
+  },
+  {
+    "timestamp":"2025-06-23 15:35:00-0500",
+    "totalCharging":-647.667
+  },
+  {
+    "timestamp":"2025-06-23 15:40:00-0500",
+    "totalCharging":-647.667
+  },
+  {
+    "timestamp":"2025-06-23 15:45:00-0500",
+    "totalCharging":-730.25
+  },
+  {
+    "timestamp":"2025-06-23 15:50:00-0500",
+    "totalCharging":-730.25
+  },
+  {
+    "timestamp":"2025-06-23 15:55:00-0500",
+    "totalCharging":-730.25
+  },
+  {
+    "timestamp":"2025-06-23 16:00:00-0500",
+    "totalCharging":-345.237
+  },
+  {
+    "timestamp":"2025-06-23 16:05:00-0500",
+    "totalCharging":-345.237
+  },
+  {
+    "timestamp":"2025-06-23 16:10:00-0500",
+    "totalCharging":-345.237
+  },
+  {
+    "timestamp":"2025-06-23 16:15:00-0500",
+    "totalCharging":-282.33
+  },
+  {
+    "timestamp":"2025-06-23 16:20:00-0500",
+    "totalCharging":-282.33
+  },
+  {
+    "timestamp":"2025-06-23 16:25:00-0500",
+    "totalCharging":-282.33
+  },
+  {
+    "timestamp":"2025-06-23 16:30:00-0500",
+    "totalCharging":-757.889
+  },
+  {
+    "timestamp":"2025-06-23 16:35:00-0500",
+    "totalCharging":-757.889
+  },
+  {
+    "timestamp":"2025-06-23 16:40:00-0500",
+    "totalCharging":-757.889
+  },
+  {
+    "timestamp":"2025-06-23 16:45:00-0500",
+    "totalCharging":-460.973
+  },
+  {
+    "timestamp":"2025-06-23 16:50:00-0500",
+    "totalCharging":-460.973
+  },
+  {
+    "timestamp":"2025-06-23 16:55:00-0500",
+    "totalCharging":-460.973
+  },
+  {
+    "timestamp":"2025-06-23 17:00:00-0500",
+    "totalCharging":-364.092
+  },
+  {
+    "timestamp":"2025-06-23 17:05:00-0500",
+    "totalCharging":-364.092
+  },
+  {
+    "timestamp":"2025-06-23 17:10:00-0500",
+    "totalCharging":-364.092
+  },
+  {
+    "timestamp":"2025-06-23 17:15:00-0500",
+    "totalCharging":-546.358
+  },
+  {
+    "timestamp":"2025-06-23 17:20:00-0500",
+    "totalCharging":-546.358
+  },
+  {
+    "timestamp":"2025-06-23 17:25:00-0500",
+    "totalCharging":-546.358
+  },
+  {
+    "timestamp":"2025-06-23 17:30:00-0500",
+    "totalCharging":-517.618
+  },
+  {
+    "timestamp":"2025-06-23 17:35:00-0500",
+    "totalCharging":-517.618
+  },
+  {
+    "timestamp":"2025-06-23 17:40:00-0500",
+    "totalCharging":-517.618
+  },
+  {
+    "timestamp":"2025-06-23 17:45:00-0500",
+    "totalCharging":-350.235
+  },
+  {
+    "timestamp":"2025-06-23 17:50:00-0500",
+    "totalCharging":-350.235
+  },
+  {
+    "timestamp":"2025-06-23 17:55:00-0500",
+    "totalCharging":-350.235
+  },
+  {
+    "timestamp":"2025-06-23 18:00:00-0500",
+    "totalCharging":-559.486
+  },
+  {
+    "timestamp":"2025-06-23 18:05:00-0500",
+    "totalCharging":-559.486
+  },
+  {
+    "timestamp":"2025-06-23 18:10:00-0500",
+    "totalCharging":-559.486
+  },
+  {
+    "timestamp":"2025-06-23 18:15:00-0500",
+    "totalCharging":-405.378
+  },
+  {
+    "timestamp":"2025-06-23 18:20:00-0500",
+    "totalCharging":-405.378
+  },
+  {
+    "timestamp":"2025-06-23 18:25:00-0500",
+    "totalCharging":-405.378
+  },
+  {
+    "timestamp":"2025-06-23 18:30:00-0500",
+    "totalCharging":-99.086
+  },
+  {
+    "timestamp":"2025-06-23 18:35:00-0500",
+    "totalCharging":-99.086
+  },
+  {
+    "timestamp":"2025-06-23 18:40:00-0500",
+    "totalCharging":-99.086
+  },
+  {
+    "timestamp":"2025-06-23 18:45:00-0500",
+    "totalCharging":-75.333
+  },
+  {
+    "timestamp":"2025-06-23 18:50:00-0500",
+    "totalCharging":-75.333
+  },
+  {
+    "timestamp":"2025-06-23 18:55:00-0500",
+    "totalCharging":-75.333
+  },
+  {
+    "timestamp":"2025-06-23 19:00:00-0500",
+    "totalCharging":-208.783
+  },
+  {
+    "timestamp":"2025-06-23 19:05:00-0500",
+    "totalCharging":-208.783
+  },
+  {
+    "timestamp":"2025-06-23 19:10:00-0500",
+    "totalCharging":-208.783
+  },
+  {
+    "timestamp":"2025-06-23 19:15:00-0500",
+    "totalCharging":-725.503
+  },
+  {
+    "timestamp":"2025-06-23 19:20:00-0500",
+    "totalCharging":-725.503
+  },
+  {
+    "timestamp":"2025-06-23 19:25:00-0500",
+    "totalCharging":-725.503
+  },
+  {
+    "timestamp":"2025-06-23 19:30:00-0500",
+    "totalCharging":-346.852
+  },
+  {
+    "timestamp":"2025-06-23 19:35:00-0500",
+    "totalCharging":-346.852
+  },
+  {
+    "timestamp":"2025-06-23 19:40:00-0500",
+    "totalCharging":-346.852
+  },
+  {
+    "timestamp":"2025-06-23 19:45:00-0500",
+    "totalCharging":-257.219
+  },
+  {
+    "timestamp":"2025-06-23 19:50:00-0500",
+    "totalCharging":-257.219
+  },
+  {
+    "timestamp":"2025-06-23 19:55:00-0500",
+    "totalCharging":-257.219
+  },
+  {
+    "timestamp":"2025-06-23 20:00:00-0500",
+    "totalCharging":-211.499
+  },
+  {
+    "timestamp":"2025-06-23 20:05:00-0500",
+    "totalCharging":-211.499
+  },
+  {
+    "timestamp":"2025-06-23 20:10:00-0500",
+    "totalCharging":-211.499
+  },
+  {
+    "timestamp":"2025-06-23 20:15:00-0500",
+    "totalCharging":-213.164
+  },
+  {
+    "timestamp":"2025-06-23 20:20:00-0500",
+    "totalCharging":-213.164
+  },
+  {
+    "timestamp":"2025-06-23 20:25:00-0500",
+    "totalCharging":-213.164
+  },
+  {
+    "timestamp":"2025-06-23 20:30:00-0500",
+    "totalCharging":-212.608
+  },
+  {
+    "timestamp":"2025-06-23 20:35:00-0500",
+    "totalCharging":-212.608
+  },
+  {
+    "timestamp":"2025-06-23 20:40:00-0500",
+    "totalCharging":-212.608
+  },
+  {
+    "timestamp":"2025-06-23 20:45:00-0500",
+    "totalCharging":-209.178
+  },
+  {
+    "timestamp":"2025-06-23 20:50:00-0500",
+    "totalCharging":-209.178
+  },
+  {
+    "timestamp":"2025-06-23 20:55:00-0500",
+    "totalCharging":-209.178
+  },
+  {
+    "timestamp":"2025-06-23 21:00:00-0500",
+    "totalCharging":-107.245
+  },
+  {
+    "timestamp":"2025-06-23 21:05:00-0500",
+    "totalCharging":-107.245
+  },
+  {
+    "timestamp":"2025-06-23 21:10:00-0500",
+    "totalCharging":-107.245
+  },
+  {
+    "timestamp":"2025-06-23 21:15:00-0500",
+    "totalCharging":-13.0
+  },
+  {
+    "timestamp":"2025-06-23 21:20:00-0500",
+    "totalCharging":-13.0
+  },
+  {
+    "timestamp":"2025-06-23 21:25:00-0500",
+    "totalCharging":-13.0
+  },
+  {
+    "timestamp":"2025-06-23 21:30:00-0500",
+    "totalCharging":-22.294
+  },
+  {
+    "timestamp":"2025-06-23 21:35:00-0500",
+    "totalCharging":-22.294
+  },
+  {
+    "timestamp":"2025-06-23 21:40:00-0500",
+    "totalCharging":-22.294
+  },
+  {
+    "timestamp":"2025-06-23 21:45:00-0500",
+    "totalCharging":-64.974
+  },
+  {
+    "timestamp":"2025-06-23 21:50:00-0500",
+    "totalCharging":-64.974
+  },
+  {
+    "timestamp":"2025-06-23 21:55:00-0500",
+    "totalCharging":-64.974
+  },
+  {
+    "timestamp":"2025-06-23 22:00:00-0500",
+    "totalCharging":-213.035
+  },
+  {
+    "timestamp":"2025-06-23 22:05:00-0500",
+    "totalCharging":-213.035
+  },
+  {
+    "timestamp":"2025-06-23 22:10:00-0500",
+    "totalCharging":-213.035
+  },
+  {
+    "timestamp":"2025-06-23 22:15:00-0500",
+    "totalCharging":-556.759
+  },
+  {
+    "timestamp":"2025-06-23 22:20:00-0500",
+    "totalCharging":-556.759
+  },
+  {
+    "timestamp":"2025-06-23 22:25:00-0500",
+    "totalCharging":-556.759
+  },
+  {
+    "timestamp":"2025-06-23 22:30:00-0500",
+    "totalCharging":-309.137
+  },
+  {
+    "timestamp":"2025-06-23 22:35:00-0500",
+    "totalCharging":-309.137
+  },
+  {
+    "timestamp":"2025-06-23 22:40:00-0500",
+    "totalCharging":-309.137
+  },
+  {
+    "timestamp":"2025-06-23 22:45:00-0500",
+    "totalCharging":-308.495
+  },
+  {
+    "timestamp":"2025-06-23 22:50:00-0500",
+    "totalCharging":-308.495
+  },
+  {
+    "timestamp":"2025-06-23 22:55:00-0500",
+    "totalCharging":-308.495
+  },
+  {
+    "timestamp":"2025-06-23 23:00:00-0500",
+    "totalCharging":-305.468
+  },
+  {
+    "timestamp":"2025-06-23 23:05:00-0500",
+    "totalCharging":-305.468
+  },
+  {
+    "timestamp":"2025-06-23 23:10:00-0500",
+    "totalCharging":-305.468
+  },
+  {
+    "timestamp":"2025-06-23 23:15:00-0500",
+    "totalCharging":-468.183
+  },
+  {
+    "timestamp":"2025-06-23 23:20:00-0500",
+    "totalCharging":-468.183
+  },
+  {
+    "timestamp":"2025-06-23 23:25:00-0500",
+    "totalCharging":-468.183
+  },
+  {
+    "timestamp":"2025-06-23 23:30:00-0500",
+    "totalCharging":-360.525
+  },
+  {
+    "timestamp":"2025-06-23 23:35:00-0500",
+    "totalCharging":-360.525
+  },
+  {
+    "timestamp":"2025-06-23 23:40:00-0500",
+    "totalCharging":-360.525
+  },
+  {
+    "timestamp":"2025-06-23 23:45:00-0500",
+    "totalCharging":-394.547
+  },
+  {
+    "timestamp":"2025-06-23 23:50:00-0500",
+    "totalCharging":-394.547
+  },
+  {
+    "timestamp":"2025-06-23 23:55:00-0500",
+    "totalCharging":-394.547
+  },
+  {
+    "timestamp":"2025-06-24 00:00:00-0500",
+    "totalCharging":-655.854
+  },
+  {
+    "timestamp":"2025-06-24 00:05:00-0500",
+    "totalCharging":-655.854
+  },
+  {
+    "timestamp":"2025-06-24 00:10:00-0500",
+    "totalCharging":-655.854
+  },
+  {
+    "timestamp":"2025-06-24 00:15:00-0500",
+    "totalCharging":-751.611
+  },
+  {
+    "timestamp":"2025-06-24 00:20:00-0500",
+    "totalCharging":-751.611
+  },
+  {
+    "timestamp":"2025-06-24 00:25:00-0500",
+    "totalCharging":-751.611
+  },
+  {
+    "timestamp":"2025-06-24 00:30:00-0500",
+    "totalCharging":-554.394
+  },
+  {
+    "timestamp":"2025-06-24 00:35:00-0500",
+    "totalCharging":-554.394
+  },
+  {
+    "timestamp":"2025-06-24 00:40:00-0500",
+    "totalCharging":-554.394
+  },
+  {
+    "timestamp":"2025-06-24 00:45:00-0500",
+    "totalCharging":-592.955
+  },
+  {
+    "timestamp":"2025-06-24 00:50:00-0500",
+    "totalCharging":-592.955
+  },
+  {
+    "timestamp":"2025-06-24 00:55:00-0500",
+    "totalCharging":-592.955
+  },
+  {
+    "timestamp":"2025-06-24 01:00:00-0500",
+    "totalCharging":-783.005
+  },
+  {
+    "timestamp":"2025-06-24 01:05:00-0500",
+    "totalCharging":-783.005
+  },
+  {
+    "timestamp":"2025-06-24 01:10:00-0500",
+    "totalCharging":-783.005
+  },
+  {
+    "timestamp":"2025-06-24 01:15:00-0500",
+    "totalCharging":-1240.43
+  },
+  {
+    "timestamp":"2025-06-24 01:20:00-0500",
+    "totalCharging":-1240.43
+  },
+  {
+    "timestamp":"2025-06-24 01:25:00-0500",
+    "totalCharging":-1240.43
+  },
+  {
+    "timestamp":"2025-06-24 01:30:00-0500",
+    "totalCharging":-1439.359
+  },
+  {
+    "timestamp":"2025-06-24 01:35:00-0500",
+    "totalCharging":-1439.359
+  },
+  {
+    "timestamp":"2025-06-24 01:40:00-0500",
+    "totalCharging":-1439.359
+  },
+  {
+    "timestamp":"2025-06-24 01:45:00-0500",
+    "totalCharging":-1537.627
+  },
+  {
+    "timestamp":"2025-06-24 01:50:00-0500",
+    "totalCharging":-1537.627
+  },
+  {
+    "timestamp":"2025-06-24 01:55:00-0500",
+    "totalCharging":-1537.627
+  },
+  {
+    "timestamp":"2025-06-24 02:00:00-0500",
+    "totalCharging":-1633.022
+  },
+  {
+    "timestamp":"2025-06-24 02:05:00-0500",
+    "totalCharging":-1633.022
+  },
+  {
+    "timestamp":"2025-06-24 02:10:00-0500",
+    "totalCharging":-1633.022
+  },
+  {
+    "timestamp":"2025-06-24 02:15:00-0500",
+    "totalCharging":-1252.428
+  },
+  {
+    "timestamp":"2025-06-24 02:20:00-0500",
+    "totalCharging":-1252.428
+  },
+  {
+    "timestamp":"2025-06-24 02:25:00-0500",
+    "totalCharging":-1252.428
+  },
+  {
+    "timestamp":"2025-06-24 02:30:00-0500",
+    "totalCharging":-1114.213
+  },
+  {
+    "timestamp":"2025-06-24 02:35:00-0500",
+    "totalCharging":-1114.213
+  },
+  {
+    "timestamp":"2025-06-24 02:40:00-0500",
+    "totalCharging":-1114.213
+  },
+  {
+    "timestamp":"2025-06-24 02:45:00-0500",
+    "totalCharging":-1007.184
+  },
+  {
+    "timestamp":"2025-06-24 02:50:00-0500",
+    "totalCharging":-1007.184
+  },
+  {
+    "timestamp":"2025-06-24 02:55:00-0500",
+    "totalCharging":-1007.184
+  },
+  {
+    "timestamp":"2025-06-24 03:00:00-0500",
+    "totalCharging":-942.07
+  },
+  {
+    "timestamp":"2025-06-24 03:05:00-0500",
+    "totalCharging":-942.07
+  },
+  {
+    "timestamp":"2025-06-24 03:10:00-0500",
+    "totalCharging":-942.07
+  },
+  {
+    "timestamp":"2025-06-24 03:15:00-0500",
+    "totalCharging":-664.563
+  },
+  {
+    "timestamp":"2025-06-24 03:20:00-0500",
+    "totalCharging":-664.563
+  },
+  {
+    "timestamp":"2025-06-24 03:25:00-0500",
+    "totalCharging":-664.563
+  },
+  {
+    "timestamp":"2025-06-24 03:30:00-0500",
+    "totalCharging":-1043.244
+  },
+  {
+    "timestamp":"2025-06-24 03:35:00-0500",
+    "totalCharging":-1043.244
+  },
+  {
+    "timestamp":"2025-06-24 03:40:00-0500",
+    "totalCharging":-1043.244
+  },
+  {
+    "timestamp":"2025-06-24 03:45:00-0500",
+    "totalCharging":-1134.451
+  },
+  {
+    "timestamp":"2025-06-24 03:50:00-0500",
+    "totalCharging":-1134.451
+  },
+  {
+    "timestamp":"2025-06-24 03:55:00-0500",
+    "totalCharging":-1134.451
+  },
+  {
+    "timestamp":"2025-06-24 04:00:00-0500",
+    "totalCharging":-636.992
+  },
+  {
+    "timestamp":"2025-06-24 04:05:00-0500",
+    "totalCharging":-636.992
+  },
+  {
+    "timestamp":"2025-06-24 04:10:00-0500",
+    "totalCharging":-636.992
+  },
+  {
+    "timestamp":"2025-06-24 04:15:00-0500",
+    "totalCharging":-251.06
+  },
+  {
+    "timestamp":"2025-06-24 04:20:00-0500",
+    "totalCharging":-251.06
+  },
+  {
+    "timestamp":"2025-06-24 04:25:00-0500",
+    "totalCharging":-251.06
+  },
+  {
+    "timestamp":"2025-06-24 04:30:00-0500",
+    "totalCharging":-289.296
+  },
+  {
+    "timestamp":"2025-06-24 04:35:00-0500",
+    "totalCharging":-289.296
+  },
+  {
+    "timestamp":"2025-06-24 04:40:00-0500",
+    "totalCharging":-289.296
+  },
+  {
+    "timestamp":"2025-06-24 04:45:00-0500",
+    "totalCharging":-284.006
+  },
+  {
+    "timestamp":"2025-06-24 04:50:00-0500",
+    "totalCharging":-284.006
+  },
+  {
+    "timestamp":"2025-06-24 04:55:00-0500",
+    "totalCharging":-284.006
+  },
+  {
+    "timestamp":"2025-06-24 05:00:00-0500",
+    "totalCharging":-197.81
+  },
+  {
+    "timestamp":"2025-06-24 05:05:00-0500",
+    "totalCharging":-197.81
+  },
+  {
+    "timestamp":"2025-06-24 05:10:00-0500",
+    "totalCharging":-197.81
+  },
+  {
+    "timestamp":"2025-06-24 05:15:00-0500",
+    "totalCharging":-150.772
+  },
+  {
+    "timestamp":"2025-06-24 05:20:00-0500",
+    "totalCharging":-150.772
+  },
+  {
+    "timestamp":"2025-06-24 05:25:00-0500",
+    "totalCharging":-150.772
+  },
+  {
+    "timestamp":"2025-06-24 05:30:00-0500",
+    "totalCharging":-57.871
+  },
+  {
+    "timestamp":"2025-06-24 05:35:00-0500",
+    "totalCharging":-57.871
+  },
+  {
+    "timestamp":"2025-06-24 05:40:00-0500",
+    "totalCharging":-57.871
+  },
+  {
+    "timestamp":"2025-06-24 05:45:00-0500",
+    "totalCharging":-68.208
+  },
+  {
+    "timestamp":"2025-06-24 05:50:00-0500",
+    "totalCharging":-68.208
+  },
+  {
+    "timestamp":"2025-06-24 05:55:00-0500",
+    "totalCharging":-68.208
+  },
+  {
+    "timestamp":"2025-06-24 06:00:00-0500",
+    "totalCharging":-64.483
+  },
+  {
+    "timestamp":"2025-06-24 06:05:00-0500",
+    "totalCharging":-64.483
+  },
+  {
+    "timestamp":"2025-06-24 06:10:00-0500",
+    "totalCharging":-64.483
+  },
+  {
+    "timestamp":"2025-06-24 06:15:00-0500",
+    "totalCharging":-32.248
+  },
+  {
+    "timestamp":"2025-06-24 06:20:00-0500",
+    "totalCharging":-32.248
+  },
+  {
+    "timestamp":"2025-06-24 06:25:00-0500",
+    "totalCharging":-32.248
+  },
+  {
+    "timestamp":"2025-06-24 06:30:00-0500",
+    "totalCharging":-29.73
+  },
+  {
+    "timestamp":"2025-06-24 06:35:00-0500",
+    "totalCharging":-29.73
+  },
+  {
+    "timestamp":"2025-06-24 06:40:00-0500",
+    "totalCharging":-29.73
+  },
+  {
+    "timestamp":"2025-06-24 06:45:00-0500",
+    "totalCharging":-46.627
+  },
+  {
+    "timestamp":"2025-06-24 06:50:00-0500",
+    "totalCharging":-46.627
+  },
+  {
+    "timestamp":"2025-06-24 06:55:00-0500",
+    "totalCharging":-46.627
+  },
+  {
+    "timestamp":"2025-06-24 07:00:00-0500",
+    "totalCharging":-56.031
+  },
+  {
+    "timestamp":"2025-06-24 07:05:00-0500",
+    "totalCharging":-56.031
+  },
+  {
+    "timestamp":"2025-06-24 07:10:00-0500",
+    "totalCharging":-56.031
+  },
+  {
+    "timestamp":"2025-06-24 07:15:00-0500",
+    "totalCharging":-306.383
+  },
+  {
+    "timestamp":"2025-06-24 07:20:00-0500",
+    "totalCharging":-306.383
+  },
+  {
+    "timestamp":"2025-06-24 07:25:00-0500",
+    "totalCharging":-306.383
+  },
+  {
+    "timestamp":"2025-06-24 07:30:00-0500",
+    "totalCharging":-581.82
+  },
+  {
+    "timestamp":"2025-06-24 07:35:00-0500",
+    "totalCharging":-581.82
+  },
+  {
+    "timestamp":"2025-06-24 07:40:00-0500",
+    "totalCharging":-581.82
+  },
+  {
+    "timestamp":"2025-06-24 07:45:00-0500",
+    "totalCharging":-890.651
+  },
+  {
+    "timestamp":"2025-06-24 07:50:00-0500",
+    "totalCharging":-890.651
+  },
+  {
+    "timestamp":"2025-06-24 07:55:00-0500",
+    "totalCharging":-890.651
+  },
+  {
+    "timestamp":"2025-06-24 08:00:00-0500",
+    "totalCharging":-1122.591
+  },
+  {
+    "timestamp":"2025-06-24 08:05:00-0500",
+    "totalCharging":-1122.591
+  },
+  {
+    "timestamp":"2025-06-24 08:10:00-0500",
+    "totalCharging":-1122.591
+  },
+  {
+    "timestamp":"2025-06-24 08:15:00-0500",
+    "totalCharging":-1871.885
+  },
+  {
+    "timestamp":"2025-06-24 08:20:00-0500",
+    "totalCharging":-1871.885
+  },
+  {
+    "timestamp":"2025-06-24 08:25:00-0500",
+    "totalCharging":-1871.885
+  },
+  {
+    "timestamp":"2025-06-24 08:30:00-0500",
+    "totalCharging":-2529.289
+  },
+  {
+    "timestamp":"2025-06-24 08:35:00-0500",
+    "totalCharging":-2529.289
+  },
+  {
+    "timestamp":"2025-06-24 08:40:00-0500",
+    "totalCharging":-2529.289
+  },
+  {
+    "timestamp":"2025-06-24 08:45:00-0500",
+    "totalCharging":-2986.506
+  },
+  {
+    "timestamp":"2025-06-24 08:50:00-0500",
+    "totalCharging":-2986.506
+  },
+  {
+    "timestamp":"2025-06-24 08:55:00-0500",
+    "totalCharging":-2986.506
+  },
+  {
+    "timestamp":"2025-06-24 09:00:00-0500",
+    "totalCharging":-2903.624
+  },
+  {
+    "timestamp":"2025-06-24 09:05:00-0500",
+    "totalCharging":-2903.624
+  },
+  {
+    "timestamp":"2025-06-24 09:10:00-0500",
+    "totalCharging":-2903.624
+  },
+  {
+    "timestamp":"2025-06-24 09:15:00-0500",
+    "totalCharging":-2220.338
+  },
+  {
+    "timestamp":"2025-06-24 09:20:00-0500",
+    "totalCharging":-2220.338
+  },
+  {
+    "timestamp":"2025-06-24 09:25:00-0500",
+    "totalCharging":-2220.338
+  },
+  {
+    "timestamp":"2025-06-24 09:30:00-0500",
+    "totalCharging":-1639.911
+  },
+  {
+    "timestamp":"2025-06-24 09:35:00-0500",
+    "totalCharging":-1639.911
+  },
+  {
+    "timestamp":"2025-06-24 09:40:00-0500",
+    "totalCharging":-1639.911
+  },
+  {
+    "timestamp":"2025-06-24 09:45:00-0500",
+    "totalCharging":-1374.859
+  },
+  {
+    "timestamp":"2025-06-24 09:50:00-0500",
+    "totalCharging":-1374.859
+  },
+  {
+    "timestamp":"2025-06-24 09:55:00-0500",
+    "totalCharging":-1374.859
+  },
+  {
+    "timestamp":"2025-06-24 10:00:00-0500",
+    "totalCharging":-1253.65
+  },
+  {
+    "timestamp":"2025-06-24 10:05:00-0500",
+    "totalCharging":-1253.65
+  },
+  {
+    "timestamp":"2025-06-24 10:10:00-0500",
+    "totalCharging":-1253.65
+  },
+  {
+    "timestamp":"2025-06-24 10:15:00-0500",
+    "totalCharging":-1087.482
+  },
+  {
+    "timestamp":"2025-06-24 10:20:00-0500",
+    "totalCharging":-1087.482
+  }
+]

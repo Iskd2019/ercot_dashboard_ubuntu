@@ -1,0 +1,962 @@
+[
+  {
+    "DeliveryDate": "06/24/2025",
+    "HourEnding": "1:00",
+    "SystemTotal": 59751.02905273438
+  },
+  {
+    "DeliveryDate": "06/24/2025",
+    "HourEnding": "2:00",
+    "SystemTotal": 57421.10021972656
+  },
+  {
+    "DeliveryDate": "06/24/2025",
+    "HourEnding": "3:00",
+    "SystemTotal": 55500.26013183594
+  },
+  {
+    "DeliveryDate": "06/24/2025",
+    "HourEnding": "4:00",
+    "SystemTotal": 53606.26000976563
+  },
+  {
+    "DeliveryDate": "06/24/2025",
+    "HourEnding": "5:00",
+    "SystemTotal": 52610.2001953125
+  },
+  {
+    "DeliveryDate": "06/24/2025",
+    "HourEnding": "6:00",
+    "SystemTotal": 52536.91979980469
+  },
+  {
+    "DeliveryDate": "06/24/2025",
+    "HourEnding": "7:00",
+    "SystemTotal": 53345.07958984377
+  },
+  {
+    "DeliveryDate": "06/24/2025",
+    "HourEnding": "8:00",
+    "SystemTotal": 54391.32946777344
+  },
+  {
+    "DeliveryDate": "06/24/2025",
+    "HourEnding": "9:00",
+    "SystemTotal": 58769.38073730469
+  },
+  {
+    "DeliveryDate": "06/24/2025",
+    "HourEnding": "10:00",
+    "SystemTotal": 65330.43041992188
+  },
+  {
+    "DeliveryDate": "06/24/2025",
+    "HourEnding": "11:00",
+    "SystemTotal": 68800.75036621094
+  },
+  {
+    "DeliveryDate": "06/24/2025",
+    "HourEnding": "12:00",
+    "SystemTotal": 72369.11047363281
+  },
+  {
+    "DeliveryDate": "06/24/2025",
+    "HourEnding": "13:00",
+    "SystemTotal": 75775.76977539062
+  },
+  {
+    "DeliveryDate": "06/24/2025",
+    "HourEnding": "14:00",
+    "SystemTotal": 78809.33996582031
+  },
+  {
+    "DeliveryDate": "06/24/2025",
+    "HourEnding": "15:00",
+    "SystemTotal": 80170.38989257814
+  },
+  {
+    "DeliveryDate": "06/24/2025",
+    "HourEnding": "16:00",
+    "SystemTotal": 80313.82983398438
+  },
+  {
+    "DeliveryDate": "06/24/2025",
+    "HourEnding": "17:00",
+    "SystemTotal": 79920.27026367188
+  },
+  {
+    "DeliveryDate": "06/24/2025",
+    "HourEnding": "18:00",
+    "SystemTotal": 78770.94042968751
+  },
+  {
+    "DeliveryDate": "06/24/2025",
+    "HourEnding": "19:00",
+    "SystemTotal": 77413.03955078126
+  },
+  {
+    "DeliveryDate": "06/24/2025",
+    "HourEnding": "20:00",
+    "SystemTotal": 75333.3701171875
+  },
+  {
+    "DeliveryDate": "06/24/2025",
+    "HourEnding": "21:00",
+    "SystemTotal": 72781.68054199219
+  },
+  {
+    "DeliveryDate": "06/24/2025",
+    "HourEnding": "22:00",
+    "SystemTotal": 70546.87915039062
+  },
+  {
+    "DeliveryDate": "06/24/2025",
+    "HourEnding": "23:00",
+    "SystemTotal": 66725.00964355469
+  },
+  {
+    "DeliveryDate": "06/24/2025",
+    "HourEnding": "24:00",
+    "SystemTotal": 62628.39074707031
+  },
+  {
+    "DeliveryDate": "06/25/2025",
+    "HourEnding": "1:00",
+    "SystemTotal": 58003.6297607422
+  },
+  {
+    "DeliveryDate": "06/25/2025",
+    "HourEnding": "2:00",
+    "SystemTotal": 54845.919921875
+  },
+  {
+    "DeliveryDate": "06/25/2025",
+    "HourEnding": "3:00",
+    "SystemTotal": 52716.83044433594
+  },
+  {
+    "DeliveryDate": "06/25/2025",
+    "HourEnding": "4:00",
+    "SystemTotal": 51361.99035644531
+  },
+  {
+    "DeliveryDate": "06/25/2025",
+    "HourEnding": "5:00",
+    "SystemTotal": 50751.24975585938
+  },
+  {
+    "DeliveryDate": "06/25/2025",
+    "HourEnding": "6:00",
+    "SystemTotal": 51371.77014160156
+  },
+  {
+    "DeliveryDate": "06/25/2025",
+    "HourEnding": "7:00",
+    "SystemTotal": 52578.14978027344
+  },
+  {
+    "DeliveryDate": "06/25/2025",
+    "HourEnding": "8:00",
+    "SystemTotal": 53777.25964355469
+  },
+  {
+    "DeliveryDate": "06/25/2025",
+    "HourEnding": "9:00",
+    "SystemTotal": 56754.39001464844
+  },
+  {
+    "DeliveryDate": "06/25/2025",
+    "HourEnding": "10:00",
+    "SystemTotal": 60318.8310546875
+  },
+  {
+    "DeliveryDate": "06/25/2025",
+    "HourEnding": "11:00",
+    "SystemTotal": 63701.84045410157
+  },
+  {
+    "DeliveryDate": "06/25/2025",
+    "HourEnding": "12:00",
+    "SystemTotal": 66862.59899902345
+  },
+  {
+    "DeliveryDate": "06/25/2025",
+    "HourEnding": "13:00",
+    "SystemTotal": 69886.41113281251
+  },
+  {
+    "DeliveryDate": "06/25/2025",
+    "HourEnding": "14:00",
+    "SystemTotal": 72675.33020019533
+  },
+  {
+    "DeliveryDate": "06/25/2025",
+    "HourEnding": "15:00",
+    "SystemTotal": 74571.25048828125
+  },
+  {
+    "DeliveryDate": "06/25/2025",
+    "HourEnding": "16:00",
+    "SystemTotal": 75430.03967285158
+  },
+  {
+    "DeliveryDate": "06/25/2025",
+    "HourEnding": "17:00",
+    "SystemTotal": 75316.24890136719
+  },
+  {
+    "DeliveryDate": "06/25/2025",
+    "HourEnding": "18:00",
+    "SystemTotal": 74597.15869140625
+  },
+  {
+    "DeliveryDate": "06/25/2025",
+    "HourEnding": "19:00",
+    "SystemTotal": 73026.75988769531
+  },
+  {
+    "DeliveryDate": "06/25/2025",
+    "HourEnding": "20:00",
+    "SystemTotal": 70846.95947265625
+  },
+  {
+    "DeliveryDate": "06/25/2025",
+    "HourEnding": "21:00",
+    "SystemTotal": 68444.38159179688
+  },
+  {
+    "DeliveryDate": "06/25/2025",
+    "HourEnding": "22:00",
+    "SystemTotal": 66605.46923828125
+  },
+  {
+    "DeliveryDate": "06/25/2025",
+    "HourEnding": "23:00",
+    "SystemTotal": 63211.29052734375
+  },
+  {
+    "DeliveryDate": "06/25/2025",
+    "HourEnding": "24:00",
+    "SystemTotal": 59599.21887207031
+  },
+  {
+    "DeliveryDate": "06/26/2025",
+    "HourEnding": "1:00",
+    "SystemTotal": 56420.91931152344
+  },
+  {
+    "DeliveryDate": "06/26/2025",
+    "HourEnding": "2:00",
+    "SystemTotal": 53734.37976074219
+  },
+  {
+    "DeliveryDate": "06/26/2025",
+    "HourEnding": "3:00",
+    "SystemTotal": 51856.93005371094
+  },
+  {
+    "DeliveryDate": "06/26/2025",
+    "HourEnding": "4:00",
+    "SystemTotal": 50638.02062988282
+  },
+  {
+    "DeliveryDate": "06/26/2025",
+    "HourEnding": "5:00",
+    "SystemTotal": 50132.00048828126
+  },
+  {
+    "DeliveryDate": "06/26/2025",
+    "HourEnding": "6:00",
+    "SystemTotal": 50831.6796875
+  },
+  {
+    "DeliveryDate": "06/26/2025",
+    "HourEnding": "7:00",
+    "SystemTotal": 52074.45996093751
+  },
+  {
+    "DeliveryDate": "06/26/2025",
+    "HourEnding": "8:00",
+    "SystemTotal": 53388.03930664063
+  },
+  {
+    "DeliveryDate": "06/26/2025",
+    "HourEnding": "9:00",
+    "SystemTotal": 56401.36975097656
+  },
+  {
+    "DeliveryDate": "06/26/2025",
+    "HourEnding": "10:00",
+    "SystemTotal": 60068.388671875
+  },
+  {
+    "DeliveryDate": "06/26/2025",
+    "HourEnding": "11:00",
+    "SystemTotal": 63613.07006835937
+  },
+  {
+    "DeliveryDate": "06/26/2025",
+    "HourEnding": "12:00",
+    "SystemTotal": 67048.22900390625
+  },
+  {
+    "DeliveryDate": "06/26/2025",
+    "HourEnding": "13:00",
+    "SystemTotal": 70208.21997070312
+  },
+  {
+    "DeliveryDate": "06/26/2025",
+    "HourEnding": "14:00",
+    "SystemTotal": 73235.85852050781
+  },
+  {
+    "DeliveryDate": "06/26/2025",
+    "HourEnding": "15:00",
+    "SystemTotal": 75400.86022949219
+  },
+  {
+    "DeliveryDate": "06/26/2025",
+    "HourEnding": "16:00",
+    "SystemTotal": 76477.25024414062
+  },
+  {
+    "DeliveryDate": "06/26/2025",
+    "HourEnding": "17:00",
+    "SystemTotal": 76663.04052734374
+  },
+  {
+    "DeliveryDate": "06/26/2025",
+    "HourEnding": "18:00",
+    "SystemTotal": 76041.4013671875
+  },
+  {
+    "DeliveryDate": "06/26/2025",
+    "HourEnding": "19:00",
+    "SystemTotal": 74422.97973632812
+  },
+  {
+    "DeliveryDate": "06/26/2025",
+    "HourEnding": "20:00",
+    "SystemTotal": 72101.24133300781
+  },
+  {
+    "DeliveryDate": "06/26/2025",
+    "HourEnding": "21:00",
+    "SystemTotal": 69610.98181152344
+  },
+  {
+    "DeliveryDate": "06/26/2025",
+    "HourEnding": "22:00",
+    "SystemTotal": 67748.73999023439
+  },
+  {
+    "DeliveryDate": "06/26/2025",
+    "HourEnding": "23:00",
+    "SystemTotal": 64420.22021484375
+  },
+  {
+    "DeliveryDate": "06/26/2025",
+    "HourEnding": "24:00",
+    "SystemTotal": 60805.79040527345
+  },
+  {
+    "DeliveryDate": "06/27/2025",
+    "HourEnding": "1:00",
+    "SystemTotal": 57988.63818359375
+  },
+  {
+    "DeliveryDate": "06/27/2025",
+    "HourEnding": "2:00",
+    "SystemTotal": 55128.50927734376
+  },
+  {
+    "DeliveryDate": "06/27/2025",
+    "HourEnding": "3:00",
+    "SystemTotal": 53084.06994628906
+  },
+  {
+    "DeliveryDate": "06/27/2025",
+    "HourEnding": "4:00",
+    "SystemTotal": 51724.00012207032
+  },
+  {
+    "DeliveryDate": "06/27/2025",
+    "HourEnding": "5:00",
+    "SystemTotal": 51086.27075195313
+  },
+  {
+    "DeliveryDate": "06/27/2025",
+    "HourEnding": "6:00",
+    "SystemTotal": 51587.17956542969
+  },
+  {
+    "DeliveryDate": "06/27/2025",
+    "HourEnding": "7:00",
+    "SystemTotal": 52369.52990722656
+  },
+  {
+    "DeliveryDate": "06/27/2025",
+    "HourEnding": "8:00",
+    "SystemTotal": 53686.71020507813
+  },
+  {
+    "DeliveryDate": "06/27/2025",
+    "HourEnding": "9:00",
+    "SystemTotal": 57375.51086425781
+  },
+  {
+    "DeliveryDate": "06/27/2025",
+    "HourEnding": "10:00",
+    "SystemTotal": 61566.70031738281
+  },
+  {
+    "DeliveryDate": "06/27/2025",
+    "HourEnding": "11:00",
+    "SystemTotal": 65353.14990234375
+  },
+  {
+    "DeliveryDate": "06/27/2025",
+    "HourEnding": "12:00",
+    "SystemTotal": 69044.52026367188
+  },
+  {
+    "DeliveryDate": "06/27/2025",
+    "HourEnding": "13:00",
+    "SystemTotal": 72430.02941894531
+  },
+  {
+    "DeliveryDate": "06/27/2025",
+    "HourEnding": "14:00",
+    "SystemTotal": 75640.54052734374
+  },
+  {
+    "DeliveryDate": "06/27/2025",
+    "HourEnding": "15:00",
+    "SystemTotal": 78034.76904296875
+  },
+  {
+    "DeliveryDate": "06/27/2025",
+    "HourEnding": "16:00",
+    "SystemTotal": 79378.71032714844
+  },
+  {
+    "DeliveryDate": "06/27/2025",
+    "HourEnding": "17:00",
+    "SystemTotal": 80056.71020507812
+  },
+  {
+    "DeliveryDate": "06/27/2025",
+    "HourEnding": "18:00",
+    "SystemTotal": 79974.81091308592
+  },
+  {
+    "DeliveryDate": "06/27/2025",
+    "HourEnding": "19:00",
+    "SystemTotal": 78626.67846679688
+  },
+  {
+    "DeliveryDate": "06/27/2025",
+    "HourEnding": "20:00",
+    "SystemTotal": 75936.08129882812
+  },
+  {
+    "DeliveryDate": "06/27/2025",
+    "HourEnding": "21:00",
+    "SystemTotal": 72652.67053222656
+  },
+  {
+    "DeliveryDate": "06/27/2025",
+    "HourEnding": "22:00",
+    "SystemTotal": 70499.67016601562
+  },
+  {
+    "DeliveryDate": "06/27/2025",
+    "HourEnding": "23:00",
+    "SystemTotal": 67334.59008789062
+  },
+  {
+    "DeliveryDate": "06/27/2025",
+    "HourEnding": "24:00",
+    "SystemTotal": 63767.46008300781
+  },
+  {
+    "DeliveryDate": "06/28/2025",
+    "HourEnding": "1:00",
+    "SystemTotal": 60177.20007324219
+  },
+  {
+    "DeliveryDate": "06/28/2025",
+    "HourEnding": "2:00",
+    "SystemTotal": 57309.63024902344
+  },
+  {
+    "DeliveryDate": "06/28/2025",
+    "HourEnding": "3:00",
+    "SystemTotal": 54895.94042968751
+  },
+  {
+    "DeliveryDate": "06/28/2025",
+    "HourEnding": "4:00",
+    "SystemTotal": 53120.3995361328
+  },
+  {
+    "DeliveryDate": "06/28/2025",
+    "HourEnding": "5:00",
+    "SystemTotal": 51918.8994140625
+  },
+  {
+    "DeliveryDate": "06/28/2025",
+    "HourEnding": "6:00",
+    "SystemTotal": 51247.3203125
+  },
+  {
+    "DeliveryDate": "06/28/2025",
+    "HourEnding": "7:00",
+    "SystemTotal": 50914.19970703124
+  },
+  {
+    "DeliveryDate": "06/28/2025",
+    "HourEnding": "8:00",
+    "SystemTotal": 52005.12084960937
+  },
+  {
+    "DeliveryDate": "06/28/2025",
+    "HourEnding": "9:00",
+    "SystemTotal": 56438.77868652344
+  },
+  {
+    "DeliveryDate": "06/28/2025",
+    "HourEnding": "10:00",
+    "SystemTotal": 61164.44018554687
+  },
+  {
+    "DeliveryDate": "06/28/2025",
+    "HourEnding": "11:00",
+    "SystemTotal": 65408.96057128907
+  },
+  {
+    "DeliveryDate": "06/28/2025",
+    "HourEnding": "12:00",
+    "SystemTotal": 69121.54113769531
+  },
+  {
+    "DeliveryDate": "06/28/2025",
+    "HourEnding": "13:00",
+    "SystemTotal": 72550.62072753906
+  },
+  {
+    "DeliveryDate": "06/28/2025",
+    "HourEnding": "14:00",
+    "SystemTotal": 75288.16149902344
+  },
+  {
+    "DeliveryDate": "06/28/2025",
+    "HourEnding": "15:00",
+    "SystemTotal": 77297.41040039062
+  },
+  {
+    "DeliveryDate": "06/28/2025",
+    "HourEnding": "16:00",
+    "SystemTotal": 78851.39038085939
+  },
+  {
+    "DeliveryDate": "06/28/2025",
+    "HourEnding": "17:00",
+    "SystemTotal": 79563.45947265625
+  },
+  {
+    "DeliveryDate": "06/28/2025",
+    "HourEnding": "18:00",
+    "SystemTotal": 79327.61987304688
+  },
+  {
+    "DeliveryDate": "06/28/2025",
+    "HourEnding": "19:00",
+    "SystemTotal": 77844.48095703126
+  },
+  {
+    "DeliveryDate": "06/28/2025",
+    "HourEnding": "20:00",
+    "SystemTotal": 75268.52001953125
+  },
+  {
+    "DeliveryDate": "06/28/2025",
+    "HourEnding": "21:00",
+    "SystemTotal": 72086.63122558592
+  },
+  {
+    "DeliveryDate": "06/28/2025",
+    "HourEnding": "22:00",
+    "SystemTotal": 69989.92944335938
+  },
+  {
+    "DeliveryDate": "06/28/2025",
+    "HourEnding": "23:00",
+    "SystemTotal": 66965.11938476562
+  },
+  {
+    "DeliveryDate": "06/28/2025",
+    "HourEnding": "24:00",
+    "SystemTotal": 63477.04956054687
+  },
+  {
+    "DeliveryDate": "06/29/2025",
+    "HourEnding": "1:00",
+    "SystemTotal": 60309.43139648438
+  },
+  {
+    "DeliveryDate": "06/29/2025",
+    "HourEnding": "2:00",
+    "SystemTotal": 57564.87939453125
+  },
+  {
+    "DeliveryDate": "06/29/2025",
+    "HourEnding": "3:00",
+    "SystemTotal": 55583.62915039063
+  },
+  {
+    "DeliveryDate": "06/29/2025",
+    "HourEnding": "4:00",
+    "SystemTotal": 53778.50915527344
+  },
+  {
+    "DeliveryDate": "06/29/2025",
+    "HourEnding": "5:00",
+    "SystemTotal": 52396.21032714843
+  },
+  {
+    "DeliveryDate": "06/29/2025",
+    "HourEnding": "6:00",
+    "SystemTotal": 51631.1904296875
+  },
+  {
+    "DeliveryDate": "06/29/2025",
+    "HourEnding": "7:00",
+    "SystemTotal": 50899.48010253906
+  },
+  {
+    "DeliveryDate": "06/29/2025",
+    "HourEnding": "8:00",
+    "SystemTotal": 51880.34948730469
+  },
+  {
+    "DeliveryDate": "06/29/2025",
+    "HourEnding": "9:00",
+    "SystemTotal": 56500.95959472656
+  },
+  {
+    "DeliveryDate": "06/29/2025",
+    "HourEnding": "10:00",
+    "SystemTotal": 60840.13952636719
+  },
+  {
+    "DeliveryDate": "06/29/2025",
+    "HourEnding": "11:00",
+    "SystemTotal": 64677.13061523437
+  },
+  {
+    "DeliveryDate": "06/29/2025",
+    "HourEnding": "12:00",
+    "SystemTotal": 68350.82922363283
+  },
+  {
+    "DeliveryDate": "06/29/2025",
+    "HourEnding": "13:00",
+    "SystemTotal": 71664.29064941408
+  },
+  {
+    "DeliveryDate": "06/29/2025",
+    "HourEnding": "14:00",
+    "SystemTotal": 74593.18115234375
+  },
+  {
+    "DeliveryDate": "06/29/2025",
+    "HourEnding": "15:00",
+    "SystemTotal": 76706.46972656249
+  },
+  {
+    "DeliveryDate": "06/29/2025",
+    "HourEnding": "16:00",
+    "SystemTotal": 77859.1611328125
+  },
+  {
+    "DeliveryDate": "06/29/2025",
+    "HourEnding": "17:00",
+    "SystemTotal": 78364.20996093751
+  },
+  {
+    "DeliveryDate": "06/29/2025",
+    "HourEnding": "18:00",
+    "SystemTotal": 78419.98022460938
+  },
+  {
+    "DeliveryDate": "06/29/2025",
+    "HourEnding": "19:00",
+    "SystemTotal": 77469.32128906251
+  },
+  {
+    "DeliveryDate": "06/29/2025",
+    "HourEnding": "20:00",
+    "SystemTotal": 75640.30957031251
+  },
+  {
+    "DeliveryDate": "06/29/2025",
+    "HourEnding": "21:00",
+    "SystemTotal": 72806.41040039062
+  },
+  {
+    "DeliveryDate": "06/29/2025",
+    "HourEnding": "22:00",
+    "SystemTotal": 70845.64001464845
+  },
+  {
+    "DeliveryDate": "06/29/2025",
+    "HourEnding": "23:00",
+    "SystemTotal": 67330.33032226562
+  },
+  {
+    "DeliveryDate": "06/29/2025",
+    "HourEnding": "24:00",
+    "SystemTotal": 63317.54907226563
+  },
+  {
+    "DeliveryDate": "06/30/2025",
+    "HourEnding": "1:00",
+    "SystemTotal": 59777.25769042969
+  },
+  {
+    "DeliveryDate": "06/30/2025",
+    "HourEnding": "2:00",
+    "SystemTotal": 56696.68688964843
+  },
+  {
+    "DeliveryDate": "06/30/2025",
+    "HourEnding": "3:00",
+    "SystemTotal": 54580.1336669922
+  },
+  {
+    "DeliveryDate": "06/30/2025",
+    "HourEnding": "4:00",
+    "SystemTotal": 53308.822265625
+  },
+  {
+    "DeliveryDate": "06/30/2025",
+    "HourEnding": "5:00",
+    "SystemTotal": 52779.29394531251
+  },
+  {
+    "DeliveryDate": "06/30/2025",
+    "HourEnding": "6:00",
+    "SystemTotal": 53273.85400390625
+  },
+  {
+    "DeliveryDate": "06/30/2025",
+    "HourEnding": "7:00",
+    "SystemTotal": 54184.14086914063
+  },
+  {
+    "DeliveryDate": "06/30/2025",
+    "HourEnding": "8:00",
+    "SystemTotal": 55656.00256347658
+  },
+  {
+    "DeliveryDate": "06/30/2025",
+    "HourEnding": "9:00",
+    "SystemTotal": 59522.697265625
+  },
+  {
+    "DeliveryDate": "06/30/2025",
+    "HourEnding": "10:00",
+    "SystemTotal": 63718.13952636719
+  },
+  {
+    "DeliveryDate": "06/30/2025",
+    "HourEnding": "11:00",
+    "SystemTotal": 67433.74951171875
+  },
+  {
+    "DeliveryDate": "06/30/2025",
+    "HourEnding": "12:00",
+    "SystemTotal": 70979.44763183594
+  },
+  {
+    "DeliveryDate": "06/30/2025",
+    "HourEnding": "13:00",
+    "SystemTotal": 74363.28881835938
+  },
+  {
+    "DeliveryDate": "06/30/2025",
+    "HourEnding": "14:00",
+    "SystemTotal": 77444.83715820312
+  },
+  {
+    "DeliveryDate": "06/30/2025",
+    "HourEnding": "15:00",
+    "SystemTotal": 79332.77404785158
+  },
+  {
+    "DeliveryDate": "06/30/2025",
+    "HourEnding": "16:00",
+    "SystemTotal": 80281.12780761719
+  },
+  {
+    "DeliveryDate": "06/30/2025",
+    "HourEnding": "17:00",
+    "SystemTotal": 80450.70849609375
+  },
+  {
+    "DeliveryDate": "06/30/2025",
+    "HourEnding": "18:00",
+    "SystemTotal": 80037.00659179688
+  },
+  {
+    "DeliveryDate": "06/30/2025",
+    "HourEnding": "19:00",
+    "SystemTotal": 79067.33911132812
+  },
+  {
+    "DeliveryDate": "06/30/2025",
+    "HourEnding": "20:00",
+    "SystemTotal": 77067.82080078125
+  },
+  {
+    "DeliveryDate": "06/30/2025",
+    "HourEnding": "21:00",
+    "SystemTotal": 74377.76489257812
+  },
+  {
+    "DeliveryDate": "06/30/2025",
+    "HourEnding": "22:00",
+    "SystemTotal": 72119.98999023439
+  },
+  {
+    "DeliveryDate": "06/30/2025",
+    "HourEnding": "23:00",
+    "SystemTotal": 68284.93579101562
+  },
+  {
+    "DeliveryDate": "06/30/2025",
+    "HourEnding": "24:00",
+    "SystemTotal": 64299.78796386719
+  },
+  {
+    "DeliveryDate": "07/01/2025",
+    "HourEnding": "1:00",
+    "SystemTotal": 60422.26538085937
+  },
+  {
+    "DeliveryDate": "07/01/2025",
+    "HourEnding": "2:00",
+    "SystemTotal": 57310.97241210937
+  },
+  {
+    "DeliveryDate": "07/01/2025",
+    "HourEnding": "3:00",
+    "SystemTotal": 55093.18603515626
+  },
+  {
+    "DeliveryDate": "07/01/2025",
+    "HourEnding": "4:00",
+    "SystemTotal": 53720.46740722656
+  },
+  {
+    "DeliveryDate": "07/01/2025",
+    "HourEnding": "5:00",
+    "SystemTotal": 53072.66809082032
+  },
+  {
+    "DeliveryDate": "07/01/2025",
+    "HourEnding": "6:00",
+    "SystemTotal": 53547.34924316407
+  },
+  {
+    "DeliveryDate": "07/01/2025",
+    "HourEnding": "7:00",
+    "SystemTotal": 54514.55981445314
+  },
+  {
+    "DeliveryDate": "07/01/2025",
+    "HourEnding": "8:00",
+    "SystemTotal": 55497.12353515624
+  },
+  {
+    "DeliveryDate": "07/01/2025",
+    "HourEnding": "9:00",
+    "SystemTotal": 59034.15087890626
+  },
+  {
+    "DeliveryDate": "07/01/2025",
+    "HourEnding": "10:00",
+    "SystemTotal": 63203.35681152344
+  },
+  {
+    "DeliveryDate": "07/01/2025",
+    "HourEnding": "11:00",
+    "SystemTotal": 67053.32653808592
+  },
+  {
+    "DeliveryDate": "07/01/2025",
+    "HourEnding": "12:00",
+    "SystemTotal": 70713.44848632812
+  },
+  {
+    "DeliveryDate": "07/01/2025",
+    "HourEnding": "13:00",
+    "SystemTotal": 74248.13586425783
+  },
+  {
+    "DeliveryDate": "07/01/2025",
+    "HourEnding": "14:00",
+    "SystemTotal": 77434.58129882812
+  },
+  {
+    "DeliveryDate": "07/01/2025",
+    "HourEnding": "15:00",
+    "SystemTotal": 79307.80102539062
+  },
+  {
+    "DeliveryDate": "07/01/2025",
+    "HourEnding": "16:00",
+    "SystemTotal": 80231.3095703125
+  },
+  {
+    "DeliveryDate": "07/01/2025",
+    "HourEnding": "17:00",
+    "SystemTotal": 80476.54052734375
+  },
+  {
+    "DeliveryDate": "07/01/2025",
+    "HourEnding": "18:00",
+    "SystemTotal": 79862.60229492188
+  },
+  {
+    "DeliveryDate": "07/01/2025",
+    "HourEnding": "19:00",
+    "SystemTotal": 78506.12866210938
+  },
+  {
+    "DeliveryDate": "07/01/2025",
+    "HourEnding": "20:00",
+    "SystemTotal": 76163.33227539062
+  },
+  {
+    "DeliveryDate": "07/01/2025",
+    "HourEnding": "21:00",
+    "SystemTotal": 73385.87316894531
+  },
+  {
+    "DeliveryDate": "07/01/2025",
+    "HourEnding": "22:00",
+    "SystemTotal": 71194.60925292967
+  },
+  {
+    "DeliveryDate": "07/01/2025",
+    "HourEnding": "23:00",
+    "SystemTotal": 67404.12854003908
+  },
+  {
+    "DeliveryDate": "07/01/2025",
+    "HourEnding": "24:00",
+    "SystemTotal": 63670.28100585937
+  }
+]
