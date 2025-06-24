@@ -36,7 +36,7 @@ for file_name in zip_file.namelist():
             filtered_json = df_filtered.to_dict(orient='records')
 
 # Step 5: Save JSON to file
-json_path = "7_Days_ercot_forecast_filtered.json"
+json_path = "7_days_ercot_forecast_filtered.json"
 with open(json_path, "w") as json_file:
     json.dump(filtered_json, json_file, indent=2)
 
