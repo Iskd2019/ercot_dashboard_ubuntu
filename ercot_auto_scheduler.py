@@ -27,7 +27,7 @@ scripts = [
     "import_JSON_from_ESR.py",
     "push_7_day_JSON_to_PostSQL.py",
     "push_daily_json_to_SQL.py",
-    "push_intra_hour_to_SQL.py",
+    "push_intra_hour_to_SQL_new.py",
     "get_15_mins_average.py",
     "push_daily_15mins_to_SQL.py",
     "get_15_mins_ESR.py",
@@ -86,3 +86,4 @@ def start_scheduler():
 
 if __name__ == "__main__":
     start_scheduler()
+
